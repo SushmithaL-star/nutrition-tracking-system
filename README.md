@@ -77,7 +77,7 @@ This project strengthened my ability to build maintainable analytical tools, not
 
 Microsoft Excel (Microsoft 365)
 
-## Project Files
+# Project Files
 - [Nutrition_Tracking_System.xlsx](Nutrition_Tracking_System.xlsx) – Main tracking file  
 - [/screenshots](screenshots/) – Sample views of daily logs, weekly summaries, consistency score, and progress charts
 
