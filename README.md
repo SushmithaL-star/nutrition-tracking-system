@@ -1,11 +1,11 @@
-# Project Overview
+## Project Overview
 
 This project is a personal Excel-based Nutrition Tracking System built to track daily food intake, calories, body weight, and weekly trends.
 The focus is on automation, consistency tracking, and progress analysis, rather than manual logging.
 
 The system updates automatically as new data is entered and is designed to handle missing or incomplete entries without breaking calculations.
 
-# Motivation
+## Motivation
 
 I built this project to practice applying data analysis thinking to a real-world, everyday problem.
 
@@ -21,7 +21,7 @@ Instead of using a ready-made app, I chose Excel to:
 
 This project reflects how I approach problems: define the goal, structure the data, then automate insights.
 
-# Data Tracked
+## Data Tracked
 
 - Daily food intake
 
@@ -37,7 +37,7 @@ This project reflects how I approach problems: define the goal, structure the da
 
 All summaries update dynamically based on user input.
 
-# Excel Techniques Used
+## Excel Techniques Used
 
 - Logical formulas with empty-cell handling
 
@@ -51,7 +51,7 @@ All summaries update dynamically based on user input.
 
 The system is designed to remain stable even when data is missing or partially entered.
 
-# Key Learnings
+## Key Learnings
 
 - Designing Excel systems for long-term use, not one-time analysis
 
@@ -63,7 +63,7 @@ The system is designed to remain stable even when data is missing or partially e
 
 This project strengthened my ability to build maintainable analytical tools, not just spreadsheets.
 
-# Limitations & Next Steps
+## Limitations & Next Steps
 
 - Calorie values are manually entered
 
@@ -73,11 +73,11 @@ This project strengthened my ability to build maintainable analytical tools, not
   - SQL-based data storage
   - More advanced trend and variance analysis
   - Further automation beyond Excel
-# Tools
+## Tools
 
 Microsoft Excel (Microsoft 365)
 
-# Project Files
+## Project Files
 - [Nutrition_Tracking_System.xlsx](Nutrition_Tracking_System.xlsx) – Main tracking file  
 - [/screenshots](screenshots/) – Sample views of daily logs, weekly summaries, consistency score, and progress charts
 
