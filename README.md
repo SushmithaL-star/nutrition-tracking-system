@@ -82,7 +82,7 @@ Microsoft Excel (Microsoft 365)
 - [/screenshots](screenshots/) – Sample views of daily logs, weekly summaries, consistency score, and progress charts
 
 ## Visual Preview
-![Daily Log](screenshots/daily_log.png)
-![Weekly Summary](screenshots/weekly_averages.png)
-![Weekly Summary](screenshots/consistency_score.png)
-![Weekly Summary](screenshots/progress_chart.png)
+![daily_log](screenshots/daily_log.PNG)
+![weekly_averages](screenshots/weekly_averages.PNG)
+![consistency_score](screenshots/consistency_score.PNG)
+![progress_chart](screenshots/progress_chart.PNG)
