@@ -7,7 +7,7 @@ The system updates automatically as new data is entered and is designed to handl
 
 ## Motivation
 
-I built this project to practice applying data analysis thinking to a real-world, everyday problem.
+I built this project to apply data analysis thinking to a real-world, everyday problem.
 
 Instead of using a ready-made app, I chose Excel to:
 
